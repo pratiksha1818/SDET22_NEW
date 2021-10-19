@@ -13,7 +13,10 @@ public class CreateContactTest {
   @Test
 	public void EditContactTest() {
 		System.out.println("newsmokes2");
+		
+	} @Test
+	public void DeleteContactTest() {
+		System.out.println("newsmokes2");
 	}
-	
 
 }
